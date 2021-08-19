@@ -1,0 +1,103 @@
+Feature Film,
+Released between 2020-01-01 and 2020-12-31
+(Sorted by Popularity Ascending) : 
+1.
+Movie: La nue
+2.
+Movie: Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+3.
+Movie: A Quiet Place Part II
+4.
+Movie: Good Joe Bell
+5.
+Movie: Tenet
+6.
+Movie: 365 dni
+7.
+Movie: Promising Young Woman
+8.
+Movie: Freaky
+9.
+Movie: The Courier
+10.
+Movie: The Dry
+11.
+Movie: The Hunt
+12.
+Movie: The Night House
+13.
+Movie: Nomadland
+14.
+Movie: The Father
+15.
+Movie: Druk
+16.
+Movie: The Paper Tigers
+17.
+Movie: Wonder Woman 1984
+18.
+Movie: The Empty Man
+19.
+Movie: Let Him Go
+20.
+Movie: Nine Days
+21.
+Movie: The Kissing Booth 2
+22.
+Movie: Palm Springs
+23.
+Movie: Zola
+24.
+Movie: The Devil All the Time
+25.
+Movie: Soul
+26.
+Movie: Greenland
+27.
+Movie: Bill & Ted Face the Music
+28.
+Movie: Retfrdighedens ryttere
+29.
+Movie: All My Life
+30.
+Movie: The Nowhere Inn
+31.
+Movie: Hamilton
+32.
+Movie: Shadow in the Cloud
+33.
+Movie: The Croods: A New Age
+34.
+Movie: I Care a Lot
+35.
+Movie: Love and Monsters
+36.
+Movie: De Oost
+37.
+Movie: The King of Staten Island
+38.
+Movie: The Water Man
+39.
+Movie: Monster Hunter
+40.
+Movie: She Ball
+41.
+Movie: After We Collided
+42.
+Movie: The Boy Behind the Door
+43.
+Movie: Run Hide Fight
+44.
+Movie: Mulan
+45.
+Movie: The Old Guard
+46.
+Movie: Minari
+47.
+Movie: Fantasy Island
+48.
+Movie: Run
+49.
+Movie: Unhinged
+50.
+Movie: Sonic the Hedgehog

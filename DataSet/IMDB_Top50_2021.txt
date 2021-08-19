@@ -1,0 +1,103 @@
+Feature Film,
+Released between 2021-01-01 and 2021-12-31
+(Sorted by Popularity Ascending) : 
+1.
+Movie: The Suicide Squad
+2.
+Movie: Free Guy
+3.
+Movie: Vivo
+4.
+Movie: Jungle Cruise
+5.
+Movie: Aftermath
+6.
+Movie: The Green Knight
+7.
+Movie: Old
+8.
+Movie: F9
+9.
+Movie: Shershaah
+10.
+Movie: Black Widow
+11.
+Movie: Dune
+12.
+Movie: The Kissing Booth 3
+13.
+Movie: Pig
+14.
+Movie: Beckett
+15.
+Movie: CODA
+16.
+Movie: Stillwater
+17.
+Movie: Way Down
+18.
+Movie: Space Jam: A New Legacy
+19.
+Movie: Cry Macho
+20.
+Movie: The Tomorrow War
+21.
+Movie: Jolt
+22.
+Movie: Wrath of Man
+23.
+Movie: Don't Breathe 2
+24.
+Movie: Blood Red Sky
+25.
+Movie: He's All That
+26.
+Movie: Venom: Let There Be Carnage
+27.
+Movie: Luca
+28.
+Movie: Spider-Man: No Way Home
+29.
+Movie: Gunpowder Milkshake
+30.
+Movie: Hitman's Wife's Bodyguard
+31.
+Movie: Cruella
+32.
+Movie: The Last Letter from Your Lover
+33.
+Movie: Shang-Chi and the Legend of the Ten Rings
+34.
+Movie: Fear Street: 1994
+35.
+Movie: Prisoners of the Ghostland
+36.
+Movie: Respect
+37.
+Movie: Nobody
+38.
+Movie: Reminiscence
+39.
+Movie: Zack Snyder's Justice League
+40.
+Movie: Kate
+41.
+Movie: Infinite
+42.
+Movie: Snake Eyes: G.I. Joe Origins
+43.
+Movie: Mimi
+44.
+Movie: House of Gucci
+45.
+Movie: Resort to Love
+46.
+Movie: Top Gun: Maverick
+47.
+Movie: No Sudden Move
+48.
+Movie: Fear Street: 1978
+49.
+Movie: Annette
+50.
+Movie: PAW Patrol: The Movie
